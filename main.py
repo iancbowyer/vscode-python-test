@@ -1,3 +1,2 @@
-msg = "hello world"
-print(msg)
+msg = "hello world ssh"
 print(msg)
